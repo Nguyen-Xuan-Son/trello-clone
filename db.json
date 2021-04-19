@@ -1,0 +1,10 @@
+{
+  "infos": [
+    { "id": 1, "division": "division-one", "member": "nguyen-mai-thi-lan" },
+    { "id": 2, "division": "division-one", "member": "nguyen-xuan-son" },
+    { "id": 3, "division": "division-two", "member": "nguyen-hoa-mai" },
+    { "id": 4, "division": "division-one", "member": "nguyen-xuan-son" },
+    { "id": 5, "division": "division-three", "member": "nguyen-thi-mai-cho" },
+    { "id": 6, "division": "division-one", "member": "nguyen-xuan-sang" }
+  ]
+}
